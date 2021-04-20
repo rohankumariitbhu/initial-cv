@@ -3,9 +3,11 @@ body {
 }
 
 hr {
-    background-color: gray;
-    border-style: dotted;
-    height: 0px;
+    background-color: #b1e9d6;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
     width: 10%;
 }
 
